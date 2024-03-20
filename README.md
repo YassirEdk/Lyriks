@@ -40,7 +40,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/YassirEdk/SpotifyClone/
+    git clone https://github.com/YassirEdk/Lyrics/
    ```
 
 2. Change directory to the project directory
